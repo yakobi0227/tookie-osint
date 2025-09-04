@@ -52,8 +52,7 @@ The requirements will be automatically installed.
     python3 tookie-osint
 
 # 📦 Manual Install
-    download the latest release from: https://github.com/alfredredbird/tookie-osint/releases.
-    then extract the zip or tar.gz
+    download the latest release from: https://github.com/alfredredbird/tookie-osint                         
 
     cd tookie-osint && sudo pip3 install -r requirements.txt
     python3 tookie-osint
